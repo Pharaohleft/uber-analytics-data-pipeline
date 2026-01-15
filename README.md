@@ -21,6 +21,7 @@ The mission was to move beyond simple data movement and engineer a **Medallion A
 
 ##  3. DETAILED ARCHITECTURAL WORKFLOW
 
+<img width="1024" height="1024" alt="Gemini_Generated_Image_mlsx2jmlsx2jmlsx" src="https://github.com/user-attachments/assets/4ff73091-f66f-4ce7-a1dd-c1153105c973" />
 
 
 ### **Phase I: Distributed Ingestion (The 100M Record Export)**
